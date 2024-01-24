@@ -5,9 +5,9 @@ export type CarsAttribute = {
 };
 
 export enum Urls {
-  garage = 'https://async-race-api-production-4b22.up.railway.app/garage',
-  engine = 'https://async-race-api-production-4b22.up.railway.app/engine',
-  winners = 'https://async-race-api-production-4b22.up.railway.app/winners',
+  garage = 'https://asyncracing.onrender.com/garage',
+  engine = 'https://asyncracing.onrender.com/engine',
+  winners = 'https://asyncracing.onrender.com/winners',
 }
 
 export type Key = {
