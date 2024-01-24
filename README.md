@@ -18,3 +18,5 @@ SPA on Typescript. User can switch between two pages - Garage and Winners table.
  - Webpack,
  - SCSS,
  - JS Animation
+
+### You can view this project [Here](https://kornull-async-race.netlify.app/)
